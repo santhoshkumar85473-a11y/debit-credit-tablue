@@ -3,7 +3,7 @@ Debit & Credit Analytics Dashboard
  📊 Project Overview
 An interactive banking analytics dashboard developed using Tableau to analyze debit and credit transactions, identify financial trends, and present transaction insights through data visualization.
 
-#🎯 Project Objectives
+🎯 Project Objectives
 - Analyze debit and credit transaction patterns.
 - Understand financial transaction trends.
 - Present key insights through interactive visualizations.
