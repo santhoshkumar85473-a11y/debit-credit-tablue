@@ -17,7 +17,7 @@ An interactive banking analytics dashboard developed using Tableau to analyze de
  📁 Project Files
 - `Debit Credit Dashboard1 (1).twbx` – Tableau packaged workbook containing the dashboard.
 
-#🚀 How to Use
+🚀 How to Use
 1. Download the `.twbx` file from this repository.
 2. Open it using Tableau Desktop.
 3. Explore the dashboard and available visualizations.
